@@ -59,7 +59,7 @@ Assume the following graph:
 
 paths(A) = ( (A B E) (A B F) (A C G) (A C H) (A C I) (A D J) )
 
-## 3. [Write an HTTP server with REST API](./rest-api)
+## 3. [Write an HTTP server with REST API](./rest_api)
 
 Youre creating a tool that helps people organise documents into different groups called tags.
 We can represent each document by a [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier). Each document can
